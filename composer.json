@@ -1,6 +1,7 @@
 {
     "name": "alfianimanuddin/package-php",
     "description": "training package php",
+    "version": "1.2",
     "authors": [
         {
             "name": "alfianimanuddin",
