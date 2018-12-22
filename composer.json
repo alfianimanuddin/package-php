@@ -1,0 +1,16 @@
+{
+    "name": "php/training",
+    "description": "training package php",
+    "authors": [
+        {
+            "name": "alfianimanuddin",
+            "email": "alfianiman17@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "Hello.php"
+        ]
+    }
+}
